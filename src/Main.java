@@ -150,6 +150,7 @@ public class Main {
         for (int i = 4; i <= 31 ; i = i + 7) {
                 System.out.println("Сегодня пятница, " + i + "-е число. " +
                         "Необходимо подготовить отчет.");
+            System.out.println("Домашка выполнена");
         }
     }
 
